@@ -1,3 +1,5 @@
 # darkandlightmode!!!!!!!
  
- DARK AND LIGHT MODE TOGGLE IN 20 LINES OF CODE! WITH 2 LINES MORE OF CSS :shipit:
+ DARK AND LIGHT MODE TOGGLE IN 482 bytes!!!!!!!!!!!!!!
+ 
+ isn't this pog 😏
