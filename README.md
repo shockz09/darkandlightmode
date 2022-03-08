@@ -1,5 +1,5 @@
 # darkandlightmode!!!!!!!
  
- DARK AND LIGHT MODE TOGGLE IN 364 bytes!!!!!!!!!!!!!!
+ DARK AND LIGHT MODE TOGGLE IN 275 bytes!!!!!!!!!!!!!!
  
  isn't this pog 😏
