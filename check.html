@@ -1,0 +1,21 @@
+<head><link rel="stylesheet" href="styles.css"></head>
+<body>
+<div class="maindiv">
+<button class="sed">Generate</button>
+</div>
+</body>
+<script>
+  const button2 = document.querySelector(".sed");
+  const fullbody = document.querySelector("body")
+let countrue = false;
+let count = 0;
+button2.onclick = () => {
+countrue = true;
+count++
+if(count % 2 == 0){
+  fullbody.classList.add("htmlactive")
+}else{
+  fullbody.classList.remove("htmlactive")
+}
+}
+</script>
